@@ -12,3 +12,10 @@ Materials for meetup demo
     * [conda_commands.sh](./conda_commands.sh) contains commonly used conda commands.
     * Official documentation is always the best resource to check.
 
+* In order to test the mysql query, you have to install mysql on your computer, and run the sql script to create the table and load the data. 
+    * [Windows](https://dev.mysql.com/doc/refman/8.0/en/windows-installation.html) documentation
+    * [Mac OS](https://dev.mysql.com/doc/refman/8.0/en/osx-installation.html) documentation
+        * You can also install mysql via [Homebrew](https://gist.github.com/nrollr/3f57fc15ded7dddddcc4e82fe137b58e)
+
+* All the packages needed for the notebook script has been listed in [requirements.txt](./requirements.txt)
+* [virtualenv_commands.sh](./virtualenv_commands.sh) contains commonly used virutalenv commands to create and use virtual environment. There are many resources available online, here is [one example](https://docs.python-guide.org/dev/virtualenvs/).
