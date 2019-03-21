@@ -19,3 +19,4 @@ Materials for meetup demo
 
 * All the packages needed for the notebook script has been listed in [requirements.txt](./requirements.txt)
 * [virtualenv_commands.sh](./virtualenv_commands.sh) contains commonly used virutalenv commands to create and use virtual environment. There are many resources available online, here is [one example](https://docs.python-guide.org/dev/virtualenvs/).
+* Good tutorial on pandas dataframe size optimization: [[link](https://www.dataquest.io/blog/pandas-big-data)]
